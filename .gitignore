@@ -1,0 +1,12 @@
+.vscode
+build
+
+*/*.obj
+*/*.ilk
+*/*.pdb
+*/*.exe
+
+*.obj
+*.ilk
+*.pdb
+*.exe
